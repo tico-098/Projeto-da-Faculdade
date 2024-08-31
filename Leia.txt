@@ -1,0 +1,1 @@
+Código em python com o uso do haarcascade para identificação de usuário pela Webcam
